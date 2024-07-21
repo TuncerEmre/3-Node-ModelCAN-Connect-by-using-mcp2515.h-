@@ -1,0 +1,246 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b6a0983f-95d5-483f-bc08-eaa62433a5b4")
+	(paper "A4")
+	(title_block
+		(title "All connections")
+		(date "2024-07-21")
+		(company "Emre Tuncer")
+	)
+	(lib_symbols)
+	(sheet
+		(at 34.29 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1e5617e2-9896-43db-8a9a-10851a252b52")
+		(property "Sheetname" "Power "
+			(at 34.29 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Cod_upload_diagram.kicad_sch"
+			(at 34.29 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40fe5ec9-b6ed-4883-bd0a-a8def5822d48")
+		(property "Sheetname" "Atmega328p Cod upload diagram "
+			(at 85.09 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Cod_upload_diagram.kicad_sch"
+			(at 85.09 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c990053-5be2-4c12-9d8e-e94a805bc008")
+		(property "Sheetname" "ARDUINO can bus connections + pot"
+			(at 186.69 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ARDUINO_can_bus_connections+pot.kicad_sch"
+			(at 186.69 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c243d8c8-f259-48ba-b64e-15dbf8dac7fd")
+		(property "Sheetname" "ARDUINO can bus connections"
+			(at 135.89 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Arduıno_canBus_connections.kicad_sch"
+			(at 135.89 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 237.49 50.8)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c704a7ea-10a8-4d01-82d8-addec7503e9d")
+		(property "Sheetname" "Arduino-Atmega328p_canbus_PWM"
+			(at 237.49 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Arduino-Atmega328p_canbus_PWM.kicad_sch"
+			(at 237.49 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 101.6)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5862972-60f7-48d7-8572-ed5e925d844e")
+		(property "Sheetname" "Final project schematic Project"
+			(at 127 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 127 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Embedded project"
+				(path "/b6a0983f-95d5-483f-bc08-eaa62433a5b4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
