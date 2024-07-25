@@ -76,14 +76,20 @@ Collects and processes data from the RPM sensor and distance sensor.
 
 Sends processed data to the Engine Control Node to show the data on LCD screen.
 
-photos:
+All circuits are soldered on perforated pertinax. 
+
+Note: The final car is intended as a demonstration for the purposes of this project, which serves as the final assignment for a course. Therefore, the project is subject to a strict deadline. Additional implementations and upgrades may occur in the future.
+
+some photos of demo car:
 
 ![Photo_1](https://github.com/user-attachments/assets/d891a8fa-6764-4706-8f83-a33e5ecf6cae)
 
 
+![Photo_2](https://github.com/user-attachments/assets/885e52af-c911-4930-bfdf-2281f60866df)
 
 
 
+![Photo_3](https://github.com/user-attachments/assets/c7ea1388-3c06-45d5-8c78-4024aa1b94cb)
 
 
 
