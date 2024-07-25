@@ -74,7 +74,19 @@ Sensors Node:
 
 Collects and processes data from the RPM sensor and distance sensor.
 
-Sends processed data to the Engine Control Node.
+Sends processed data to the Engine Control Node to show the data on LCD screen.
+
+photos:
+
+![Photo_1](https://github.com/user-attachments/assets/d891a8fa-6764-4706-8f83-a33e5ecf6cae)
+
+
+
+
+
+
+
+
 
 Contributing
 
