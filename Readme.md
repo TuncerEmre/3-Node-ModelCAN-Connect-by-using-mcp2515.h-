@@ -54,7 +54,7 @@ Upload the Code:
 
 -Connect each microcontroller to your computer and upload the code.
 
--Usage
+Usage
 
 
 Remote Control Node:
